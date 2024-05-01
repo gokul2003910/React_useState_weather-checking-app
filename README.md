@@ -1,8 +1,19 @@
-# React + Vite
+# @babel/helper-compilation-targets
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Helper functions on Babel compilation targets
 
-Currently, two official plugins are available:
+See our website [@babel/helper-compilation-targets](https://babeljs.io/docs/babel-helper-compilation-targets) for more information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Install
+
+Using npm:
+
+```sh
+npm install --save @babel/helper-compilation-targets
+```
+
+or using yarn:
+
+```sh
+yarn add @babel/helper-compilation-targets
+```
